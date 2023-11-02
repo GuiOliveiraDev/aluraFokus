@@ -85,7 +85,7 @@ function createTask(tarefa) {
     svgIcon.innerHTML = taskIconSvg
 
     button.classList.add('app_button-edit')
-    button.innerHTML = `<img src="/imagens/edit.png">`
+    button.innerHTML = `<img src="./imagens/edit.png">`
 
 
     paragraph.classList.add('app__section-task-list-item-description')
